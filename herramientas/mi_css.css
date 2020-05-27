@@ -1,0 +1,130 @@
+body {
+  background-image: url('fons.png');
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.Princ {
+  margin: 0 auto;
+  text-align: center;
+  height: 207px;
+  width: 1024px;
+}
+
+table.of
+{
+  margin: 0 auto;
+  text-align: center;
+}
+
+table.oferta {
+  width: 1002px;
+  height: 176px;
+  background-color: #A6D5D2;
+  border: solid 1px black;
+}
+
+th.Bienv {
+  height: 67.2833px;
+  font-size: large;
+}
+
+th.menu {
+  height: 130px;
+  width: 288.033px;
+}
+
+th.formu {
+  height: 130px;
+  width: 355.95px;
+}
+
+th.ofer {
+  height: 130px;
+  width: 349.017px;
+}
+
+th.pract {
+  width: 68.0167px;
+  background-color: #277D50;
+  color: white;
+  border: solid 1px black;
+}
+
+th.fina {
+  width: 191.433px;
+  background-color: #277D50;
+  color: white;
+  border: solid 1px black;
+}
+
+td {
+  text-align: center;
+  border: solid 1px black;
+}
+
+td.sold {
+  text-align: center;
+  height: 18.2px;
+  width: 289.183px;
+  border: solid 1px black;
+}
+
+td.15 {
+  width: 241.183px;
+  border: solid 1px black;
+}
+
+td.21 {
+  width: 151.017px;
+  border: solid 1px black;
+}
+
+th.ver {
+  background-color: #277D50;
+  color: white;
+  border: solid 1px black;
+}
+
+table.instrucc {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  width: 1024px;
+}
+
+hr
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  width: 1024px;
+}
+
+li {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+div.centrado {
+  align: center;
+}
+
+.fondoAz {
+  background-color: #c3effa;
+}
+
+.letras {
+  color: red;
+  text-align: center;
+}
+
+#ok {
+  margin: 0 auto;
+  list-style-image: url('ok.jpg');
+}
